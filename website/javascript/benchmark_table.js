@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     minWidth: 50
                 },
                 {
-                    title: "Avg. VDC",
+                    title: "Avg.",
                     field: "avg_acc", 
                     hozAlign: "center", 
                     formatter: colorFormatterAvg, 
