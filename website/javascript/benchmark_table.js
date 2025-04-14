@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     title: "TPF",
                     field: "tpf",
                     widthGrow: 0.9,
-                    minWidth: 90
+                    minWidth: 50
                 },
                 {
                     title: "Avg. VDC",
