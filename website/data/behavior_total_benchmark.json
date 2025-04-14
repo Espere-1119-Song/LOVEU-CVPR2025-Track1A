@@ -1,0 +1,15 @@
+[
+  {
+    "model": "SOTA",
+    "date": "2025-04-20",
+    "frames": "-",
+    "tpf": "-",
+    "avg_acc": 42.92,
+    "detailed_acc": 47.28,
+    "camera_acc": 46.13,
+    "short_acc": 39.08,
+    "background_acc": 45.10,
+    "object_acc": 48.86
+  }
+]
+
